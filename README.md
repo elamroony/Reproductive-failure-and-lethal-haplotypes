@@ -1,4 +1,7 @@
 # Reproductive-failure-and-lethal-haplotypes
+
+See the README.pdf file ...
+
 The change in the expected Mendelian inheritance patterns
 The ability of parents to contribute equally to the next generations may alter the expected Mendelian inheritance patterns, resulting in a decline in reproductive performance. The availability of genomic markers has facilitated the way to investigate such phenomena as well as to highlight potential lethal alleles. The assessment could be done based on SNP markers or haplotypes. The latter could be more useful with low-density genotypes.
 
