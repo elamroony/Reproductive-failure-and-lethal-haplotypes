@@ -1,0 +1,4 @@
+ped_file = ped.txt
+map_file = map.txt
+geno_file = genotypes.txt
+window_size = 3
