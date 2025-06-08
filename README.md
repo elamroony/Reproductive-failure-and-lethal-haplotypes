@@ -3,6 +3,8 @@
 Deviations from expected Mendelian inheritance patterns may indicate reduced reproductive performance or the presence of lethal alleles. Advances in genomic markers have enabled more efficient investigation of such phenomena, including the identification of potential lethal alleles. These assessments can be performed using either SNP markers or haplotypes, with the latter being particularly useful for low- to medium-density genotypes (Abdalla et. al., 2020)
 https://onlinelibrary.wiley.com/doi/full/10.1111/age.13003.
 
+For a detailed guide on using haplotypes for reproductive failure and lethal allele analysis—including a step-by-step toy example, refer to the README.pdf file.
+
 **DevHap**: A tool for haplotype analysis: DevHap calculates the observed number of haplotypes from each possible mating. It requires four input files:
 
 **1. Parameters file**:
