@@ -26,7 +26,7 @@ window_size = 3
 **1. Pedigree file**:
 Format: No header, three columns (animal, sire, dam) separated by at least one space.
 ID numbering: Animals must be numbered sequentially from 1 to n, where n is the total number of genotyped animals.
-Pedigree renumbering: Can be done using ped_sort_and_renumber.
+Pedigree renumbering: Can be done using [ped_sort_and_renumber](https://github.com/elamroony/Pedigree-renumbering). This renumbering program ensures that the renumbered pedigree remains in the same order as the input pedigree.
 
 Example (4 animals):
 ```
